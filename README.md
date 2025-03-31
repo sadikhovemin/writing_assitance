@@ -73,6 +73,7 @@ python scripts/evaluate_model.py --data {path_to_csv_file} --device {device}
 Sample command:
 ```
 python scripts/evaluate_model.py --data data/test.csv --device mps
+python scripts/evaluate_model.py --data data/synthetic.csv --device mps
 ```
 
 
