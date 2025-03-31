@@ -4,7 +4,7 @@
 Run below steps to create environment and install required libraries:
 
 ```
-git clone <provide link to clone>
+git clone https://github.com/sadikhovemin/writing_assitance.git
 cd writing_assistance
 conda create --name writing-assistance python=3.10
 conda activate writing-assistance
